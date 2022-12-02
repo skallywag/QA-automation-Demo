@@ -3,7 +3,12 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <h1>QA Automation Demo</h1>
+      <div>
+        <h1 id="pageTitle">QA Automation Demo Github</h1>
+        <a id="gcLink" target="blank" href="https://www.greencompassdev.com">
+          Link to GC
+        </a>
+      </div>
     </div>
   );
 }
