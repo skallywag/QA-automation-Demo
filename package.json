@@ -1,0 +1,21 @@
+{
+  "name": "react-qa-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skallywag/QA-automation-Demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skallywag/QA-automation-Demo/issues"
+  },
+  "homepage": "https://github.com/skallywag/QA-automation-Demo#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.28.1"
+  }
+}
